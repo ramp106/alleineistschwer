@@ -279,6 +279,23 @@ margin-bottom:30px;
   padding-top: 0;
 }
 
+#latest-episode .allepisodes {
+  display: inline-block;
+  margin: 10px 0 60px;
+  padding: 0 10px;
+  font-size: 16px;
+  line-height: 35px;
+  border: 1px solid #86c3cb;
+  background-color: #000;
+  color: #fff;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+#latest-episode .allepisodes:hover {
+  background-color: #fff;
+  color: #000;
+}
 
 
 /*
